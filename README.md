@@ -1,5 +1,7 @@
 # Weather App
 
+<img width="525" height="311" alt="Screenshot 2026-03-17 at 5 27 09 PM" src="https://github.com/user-attachments/assets/57461eaf-58a1-499d-90f7-a0b0ef1286a3" />
+
 A weather lookup app with a CLI, REST API, and React frontend. Built with Python and TypeScript.
 
 ## Stack
